@@ -15,7 +15,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -25,7 +27,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.example.testvanillaapp",
-      "versionCode": 450110217
+      "versionCode": 450110220
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
